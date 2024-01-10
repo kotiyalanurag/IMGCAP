@@ -2,5 +2,4 @@
 FLICKR8k/
 __pycache__
 env/
-test/
 utils.py
