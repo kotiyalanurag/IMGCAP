@@ -1,0 +1,6 @@
+matplotlib==3.5.2 
+pandas==1.4.3
+Pillow==9.2.0
+torch==1.13.1
+torchvision==0.14.1
+tqdm @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_637jfu39ar/croots/recipe/tqdm_1664392693982/work
